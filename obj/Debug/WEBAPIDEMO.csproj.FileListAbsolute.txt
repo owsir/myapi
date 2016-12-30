@@ -1,0 +1,289 @@
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\ApplicationInsights.config
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\csc.exe
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\System.Collections.Immutable.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\vbc.exe
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\VBCSCompiler.exe
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\VBCSCompiler.exe.config
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.dll.config
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.pdb
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Antlr3.Runtime.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Web.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.WindowsServer.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.ApplicationInsights.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.Web.Infrastructure.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Newtonsoft.Json.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Net.Http.Formatting.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Helpers.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.WebHost.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Mvc.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Optimization.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Razor.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Deployment.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Razor.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\WebGrease.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Web.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.WindowsServer.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.ApplicationInsights.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Newtonsoft.Json.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Net.Http.Formatting.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Helpers.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.WebHost.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Mvc.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Optimization.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Razor.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Deployment.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Razor.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\Antlr3.Runtime.pdb
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.pdb
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.SqlServer.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\MySql.Data.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\MySql.Data.Entity.EF6.dll
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.SqlServer.xml
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.AddContentColumn.resources
+c:\users\owen\documents\visual studio 2015\Projects\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.csproj.GenerateResource.Cache
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\ApplicationInsights.config
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\csc.exe
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\System.Collections.Immutable.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\System.Reflection.Metadata.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\vbc.exe
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\VBCSCompiler.exe
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\VBCSCompiler.exe.config
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.dll.config
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.pdb
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Antlr3.Runtime.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.SqlServer.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Agent.Intercept.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.DependencyCollector.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Web.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.WindowsServer.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.ApplicationInsights.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.Web.Infrastructure.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\MySql.Data.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\MySql.Data.Entity.EF6.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Newtonsoft.Json.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Net.Http.Formatting.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Helpers.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.WebHost.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Mvc.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Optimization.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Razor.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Deployment.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Razor.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WebGrease.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.SqlServer.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.DependencyCollector.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Web.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.WindowsServer.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.ApplicationInsights.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Newtonsoft.Json.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Net.Http.Formatting.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Helpers.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.WebHost.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Mvc.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Optimization.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Razor.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Deployment.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Razor.xml
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Antlr3.Runtime.pdb
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.csprojResolveAssemblyReference.cache
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.pdb
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.InitialCreate.resources
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.csproj.GenerateResource.Cache
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.AddTableWebPage.resources
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.AddTourqueryTable.resources
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Swashbuckle.Core.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.IdentityModel.Tokens.Jwt.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WebActivatorEx.dll
+H:\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\ApplicationInsights.config
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\csc.exe
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\System.Collections.Immutable.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\System.Reflection.Metadata.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\vbc.exe
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\VBCSCompiler.exe
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\VBCSCompiler.exe.config
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.dll.config
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.pdb
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Antlr3.Runtime.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.SqlServer.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Agent.Intercept.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.DependencyCollector.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Web.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.WindowsServer.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.ApplicationInsights.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.Web.Infrastructure.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\MySql.Data.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\MySql.Data.Entity.EF6.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Newtonsoft.Json.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Swashbuckle.Core.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Net.Http.Formatting.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Helpers.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.WebHost.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Mvc.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Optimization.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Razor.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Deployment.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Razor.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WebActivatorEx.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\WebGrease.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.SqlServer.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.DependencyCollector.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Web.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.WindowsServer.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.ApplicationInsights.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Newtonsoft.Json.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Net.Http.Formatting.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Helpers.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.WebHost.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Mvc.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Optimization.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Razor.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Deployment.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Razor.xml
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\bin\Antlr3.Runtime.pdb
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.csprojResolveAssemblyReference.cache
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.InitialCreate.resources
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.AddTableWebPage.resources
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.AddTourqueryTable.resources
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.csproj.GenerateResource.Cache
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.dll
+D:\t\WEBAPIDEMO\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.pdb
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\ApplicationInsights.config
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\csc.exe
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\System.Collections.Immutable.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\System.Reflection.Metadata.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\vbc.exe
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\VBCSCompiler.exe
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\roslyn\VBCSCompiler.exe.config
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.dll.config
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\WEBAPIDEMO.pdb
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Antlr3.Runtime.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.SqlServer.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Agent.Intercept.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.DependencyCollector.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Web.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.WindowsServer.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.ApplicationInsights.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.Web.Infrastructure.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\MySql.Data.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\MySql.Data.Entity.EF6.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Newtonsoft.Json.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Swashbuckle.Core.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Net.Http.Formatting.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Helpers.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.WebHost.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Mvc.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Optimization.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Razor.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Deployment.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Razor.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\WebActivatorEx.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\WebGrease.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\EntityFramework.SqlServer.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.DependencyCollector.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.Web.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.AI.WindowsServer.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.ApplicationInsights.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Newtonsoft.Json.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Net.Http.Formatting.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Helpers.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Http.WebHost.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Mvc.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Optimization.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.Razor.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Deployment.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\System.Web.WebPages.Razor.xml
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\bin\Antlr3.Runtime.pdb
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.csprojResolveAssemblyReference.cache
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.InitialCreate.resources
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.AddTableWebPage.resources
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.Migrations.AddTourqueryTable.resources
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.csproj.GenerateResource.Cache
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.dll
+D:\umbraco\WEBAPIDEMO\WEBAPIDEMO\obj\Debug\WEBAPIDEMO.pdb
