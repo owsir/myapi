@@ -53,7 +53,11 @@ namespace WebAPI.Controllers
             mailMsg.To.Add(toEmail);
             //mailMsg.To.Add("another email");
             mailMsg.Subject = string.Format("Query from {0}", query.Name);
-            var text = string.Format("<strong>Email:</strong>{0}<br/><strong>Detail:</strong>{1}<br/>", query.Email, query.Content);
+            var text = string.Format("<strong>Email:</strong>{0}<br/>" +
+                                     "<strong>ArrivalDate:</strong>{1}<br/>" +
+                                     "<strong>NumberOfPeople:</strong>{2}<br/><br/>" +
+                                     "<strong>Detail:</strong>{3}<br/>",
+                query.Email, query.ArrivalDate==null?string.Empty: Convert.ToDateTime(query.ArrivalDate).ToString("yyyy-MM-dd"), query.Nationality, query.Content);
             text = text + "<br/><br/><strong>IP:</strong>" + string.Format("{0}", query.Ip) + "<br/>";
             text = text + "<strong>Country:</strong>" + string.Format("{0}", Util.Ip2Country(query.Ip)) + "<br/>";
             text = text + "<strong>Device:</strong>" + string.Format("{0}", query.Device) + "<br/><br/>";
